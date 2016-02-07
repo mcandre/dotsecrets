@@ -24,4 +24,4 @@ $ open *.bmp
 
 * [MATLAB](http://www.mathworks.com/products/matlab/)
 * a printer
-* a high quality document camera, such as a scanner
+* a high quality document camera ("scanner")
