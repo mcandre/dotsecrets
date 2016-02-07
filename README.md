@@ -20,6 +20,10 @@ $ open *.bmp
 ...
 ```
 
+# MATLAB Central
+
+http://www.mathworks.com/matlabcentral/fileexchange/55284-mcandre-dotsecrets
+
 # REQUIREMENTS
 
 * [MATLAB](http://www.mathworks.com/products/matlab/)
