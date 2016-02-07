@@ -2,7 +2,7 @@
 %%
 %% Default luminance = 205.
 %% Default tolerance = 5.
-function M = extract_printer_dot_mask(A, luminance, tolerance)
+function M = dotsecret(A, luminance, tolerance)
   switch nargin
     case 1
       luminance = 205;
