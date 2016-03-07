@@ -29,3 +29,7 @@ http://www.mathworks.com/matlabcentral/fileexchange/55284-mcandre-dotsecrets
 * [MATLAB](http://www.mathworks.com/products/matlab/)
 * a printer
 * a high quality document camera ("scanner")
+
+# BONUS LEVEL
+
+Try dotsecrets with bills.
